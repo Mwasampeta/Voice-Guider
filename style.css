@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "poppins";
+}
+body{
+	background-color: teal;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+}
+.container{
+	max-width: 80vw;
+}
+.heading{
+	font-size: 2cm;
+	text-align: center;
+	margin: 2cm 0;
+}
+.input button{
+	background-color: inherit;
+	border: 2px solid #fff;
+	padding: 10px 45px;
+	color: #fff;
+	font-size: 1.1cm;
+	cursor: pointer;
+	outline: none;
+	margin-top: 1cm;
+}
